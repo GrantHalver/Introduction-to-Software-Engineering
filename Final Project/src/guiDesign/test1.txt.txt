@@ -1,0 +1,5 @@
+This is a test case. It tests the parse function of the CSE360 final project. Althought it removes punctuation like the following ! ? , . It does not remove numbers like 2016.
+New lines are also removed.
+
+
+check
